@@ -1,5 +1,5 @@
 
-### Prakash loves to give back to the community through open source contibutions.
+### Prakash loves to give back to the community through Open Source Contibutions.
 
 [![@prakashdev07's Holopin board](https://holopin.me/prakashdev07)](https://holopin.io/@prakashdev07)
 
