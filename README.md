@@ -1,7 +1,7 @@
 
 # Prakash loves to give back to the community through Open Source Contributions.
 
-### Give me a  mail on - prakashvenkat28@gmail.com for Open Source Contributions & Open to all opportunities reaching me.
+### Give me a  mail on - prakashvenkat28@gmail.com for Open Source Contributions & I am Open to all opportunities reaching me.
 ### Give me a call on - +91 7845552048
 
 ## Participated in Hacktoberfest-2022 & Raised 7 PR's for JavaScript based Apps
