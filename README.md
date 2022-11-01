@@ -7,7 +7,7 @@
 ### Get My Resume - [[Download Prakash's Resume]](https://drive.google.com/file/d/1zFsOGshXMbmCKKxICZRixjr6ZeoPsEec/view?usp=sharing)
 
 
-## Participated in Hacktoberfest-2022 & Raised 7 PR's for JavaScript based Apps
+## Participated in Hacktoberfest-2022 & Raised 7 PR's for JavaScript based Apps - [[Digital Ocean's Hacktoberfest -2022 Profile]](https://www.holopin.io/@prakashdev07)
 [![@prakashdev07's Holopin board](https://holopin.me/prakashdev07)](https://holopin.io/@prakashdev07)
 
 <!--
