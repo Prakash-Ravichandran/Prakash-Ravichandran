@@ -4,7 +4,7 @@
 ### Give me a  mail on - prakashvenkat28@gmail.com for Open Source Contributions & I am Open to all opportunities reaching me.
 ### Give me a call on - +91 7845552048
 ### Connect me on linkedin - [[Prakash-Ravichandran]](https://www.linkedin.com/in/prakash-ravichandran/)
-### Get My Resume - [[Download Prakash's Resume]](https://drive.google.com/drive/u/1/folders/1OkEGNwEd-xuhjdxoiTK6mqBtzZIh5pvz)
+### Get My Resume - [[Download Prakash's Resume]](https://drive.google.com/file/d/1zFsOGshXMbmCKKxICZRixjr6ZeoPsEec/view?usp=sharing)
 
 
 ## Participated in Hacktoberfest-2022 & Raised 7 PR's for JavaScript based Apps
