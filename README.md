@@ -1,6 +1,7 @@
 
 ### Prakash loves to give back to the community through Open Source Contibutions.
 
+## Participated in Hacktoberfest-2022 & Raised 7 PR's for JavaScript based Weather-App
 [![@prakashdev07's Holopin board](https://holopin.me/prakashdev07)](https://holopin.io/@prakashdev07)
 
 <!--
