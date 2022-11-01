@@ -1,5 +1,5 @@
 
-# Prakash loves to give back to the community through Open Source Contibutions.
+# Prakash loves to give back to the community through Open Source Contributions.
 
 ## Participated in Hacktoberfest-2022 & Raised 7 PR's for JavaScript based Apps
 [![@prakashdev07's Holopin board](https://holopin.me/prakashdev07)](https://holopin.io/@prakashdev07)
