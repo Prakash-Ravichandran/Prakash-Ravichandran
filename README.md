@@ -1,4 +1,4 @@
-## Hello👋 I'm Princi 👩🏻‍💻
+## Hello👋 I'm Prakash Ravichandran 👩🏻‍💻
 
 I am a Frontend Developer from India 🇮🇳, I am working as a Developer at Infosys.
 
