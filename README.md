@@ -12,12 +12,40 @@ I am a Frontend Developer from India 🇮🇳, I am working as a Developer at In
 <a href="" target="_blank" title="Git" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="GitHub" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="30" height="30"/></a>&nbsp;&nbsp;
 
-<!--
-<a href="" target="_blank" title="Node.js" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="Mysql" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="Mysql" width="60" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="MongoDB" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="Mongo" width="30" height="30"/></a>&nbsp;&nbsp;
+𝑷𝑹𝑶𝑭𝑬𝑺𝑺𝑰𝑶𝑵:
+＊Strong ability in translating Figma Design to Excellent User Interface(UI).
 
--->
+＊Strong ability in making React reusable components.
+
+＊Differentiate features of Class based components from Functional based components.
+
+＊Strong understanding of react hooks.
+
+＊State Management library - Redux, Redux Thunk.
+
+＊Understanding of Atomic design pattern.
+
+＊Configuration of React architecture - Webpack 5.
+
+＊Writing Generalized reusable functions using JavaScript.
+
+＊Knowledge & understanding of upcoming of ES6 JavaScript features.
+
+＊Excellent styling using CSS3,Sass, Bootstrap4 frameworks.
+
+＊Knowledge on HTML5.
+
+＊Version Control system - Git
+
+＊Practiced in Agile Methodology.
+
+𝑬𝒙𝒕𝒓𝒂-𝑪𝒖𝒓𝒓𝒊𝒄𝒖𝒍𝒂𝒓:
+＊Prakash had undergone 3 years of NCC training from 9th battalion NCC Karaikudi & attended camps & a
+"𝑪" 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒄𝒂𝒕𝒆 𝑯𝒐𝒍𝒅𝒆𝒓.
+
+＊Served as 𝑫𝒊𝒔𝒕𝒓𝒊𝒄𝒕 𝑾𝒊𝒏𝒈 𝑺𝒆𝒄𝒓𝒆𝒕𝒂𝒓𝒚 in National Youth Council of India, Tiruvannamalai.
+
+＊Interested in Making & Exploring Technical Blogs.
 
 ### I post actively on ...
 
