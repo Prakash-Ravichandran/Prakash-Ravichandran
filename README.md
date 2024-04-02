@@ -23,6 +23,8 @@ I am a Frontend Developer from India 🇮🇳, I am working as a Developer at In
 
 <a href="https://www.linkedin.com/in/prakash-ravichandran/" title="prakashravichandran" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Prakash-Ravichandran&theme=onedark)](https://git.io/streak-stats)
+
 # Prakash loves to give back to the community through Open Source Contributions.
 
 ### Give me a mail on - prakashvenkat28@gmail.com for Open Source Contributions & I am Open to all opportunities reaching me.
