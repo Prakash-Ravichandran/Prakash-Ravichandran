@@ -58,7 +58,7 @@ Skills: Webpack · REST APIs · Cascading Style Sheets (CSS) · redux · React.j
 
 Connect me on linkedin - [[Prakash-Ravichandran]](https://www.linkedin.com/in/prakash-ravichandran/)
 
-Get My Resume - [[Download Prakash's Resume]](https://drive.google.com/file/d/1zFsOGshXMbmCKKxICZRixjr6ZeoPsEec/view?usp=sharing)
+Get My Resume - [[Download Prakash's Resume]](https://drive.google.com/file/d/11o9Ox7NQcLT22NQJHU2C7_YLJM6T_N2X/view?usp=sharing)
 
 Give me a call on - +91 7845552048
 
