@@ -66,6 +66,6 @@ Give me a call on - +91 7845552048
 
 ### Give me a mail on - prakashvenkat28@gmail.com for Open Source Contributions & I am Open to all opportunities reaching me.
 
-### Participated in Hacktoberfest-2022 & Raised 7 PR's for JavaScript based Apps - [[Digital Ocean's Hacktoberfest -2022 Profile]](https://www.holopin.io/@prakashdev07)
+### Participated in Hacktoberfest-2022,2023 & Raised PR's for JavaScript based Apps - [[Digital Ocean's Hacktoberfest Profile]](https://www.holopin.io/@prakashdev07)
 
 [![@prakashdev07's Holopin board](https://holopin.me/prakashdev07)](https://holopin.io/@prakashdev07)
