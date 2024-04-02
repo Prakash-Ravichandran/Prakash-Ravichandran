@@ -1,6 +1,6 @@
 ## Hello👋 I'm Prakash Ravichandran
 
-I am a Frontend Developer from India 🇮🇳, I am working as a Developer at Infosys.
+I am a Frontend Developer from India 🇮🇳, I am working as a Developer at Infosys.</br>
 Skills: Webpack · REST APIs · Cascading Style Sheets (CSS) · redux · React.js · JavaScript · HTML · GitHub
 
 ### My TechStack ...
